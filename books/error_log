@@ -1,0 +1,72 @@
+[01-Sep-2020 21:48:01 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:48:09 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:48:12 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:48:14 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:50:26 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:51:48 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:52:09 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:52:17 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:54:20 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:54:33 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:55:32 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:55:53 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:56:53 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:57:00 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 21:58:17 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:01:13 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:02:05 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:02:16 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:04:34 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:08 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:13 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:14 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:15 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:17 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:18 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:28 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:08:33 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:09:20 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/bronjarm/public_html/config/Database.php:12
+Stack trace:
+#0 /home/bronjarm/public_html/config/Database.php(23): connect()
+#1 /home/bronjarm/public_html/books/read.php(3): require('/home/bronjarm/...')
+#2 {main}
+  thrown in /home/bronjarm/public_html/config/Database.php on line 12
+[01-Sep-2020 22:09:22 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/bronjarm/public_html/config/Database.php:12
+Stack trace:
+#0 /home/bronjarm/public_html/config/Database.php(23): connect()
+#1 /home/bronjarm/public_html/books/read.php(3): require('/home/bronjarm/...')
+#2 {main}
+  thrown in /home/bronjarm/public_html/config/Database.php on line 12
+[01-Sep-2020 22:09:24 Europe/Zagreb] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/bronjarm/public_html/config/Database.php:12
+Stack trace:
+#0 /home/bronjarm/public_html/config/Database.php(23): connect()
+#1 /home/bronjarm/public_html/books/read.php(3): require('/home/bronjarm/...')
+#2 {main}
+  thrown in /home/bronjarm/public_html/config/Database.php on line 12
+[01-Sep-2020 22:09:41 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:09:43 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9
+[01-Sep-2020 22:09:45 Europe/Zagreb] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home/bronjarm/public_html/books/read.php on line 9

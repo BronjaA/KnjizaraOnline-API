@@ -1,0 +1,165 @@
+[01-Sep-2020 21:52:07 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 21:52:15 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 21:55:41 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:15:05 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:15:12 Europe/Zagreb] PHP Fatal error:  Call to undefined function password_verify() in /home/bronjarm/public_html/users/login.php on line 28
+[01-Sep-2020 22:15:12 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:15:26 Europe/Zagreb] PHP Fatal error:  Call to undefined function password_verify() in /home/bronjarm/public_html/users/login.php on line 28
+[01-Sep-2020 22:15:44 Europe/Zagreb] PHP Fatal error:  Call to undefined function password_verify() in /home/bronjarm/public_html/users/login.php on line 28
+[01-Sep-2020 22:15:46 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:16:10 Europe/Zagreb] PHP Fatal error:  Call to undefined function password_verify() in /home/bronjarm/public_html/users/login.php on line 28
+[01-Sep-2020 22:18:55 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:33:44 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:33:46 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:54:28 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 22:55:51 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 23:03:49 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 23:04:57 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[01-Sep-2020 23:06:41 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 00:31:17 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 02:58:22 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 03:59:36 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 09:33:13 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:36:16 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:39:47 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:39:55 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:41:36 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:41:39 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[02-Sep-2020 23:42:24 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 16:35:20 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 17:51:04 Europe/Zagreb] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/bronjarm/public_html/users/verifyEmail.php on line 14
+[03-Sep-2020 18:27:01 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 19:03:04 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 19:03:10 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 19:03:37 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 19:39:00 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[03-Sep-2020 20:14:40 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
+[15-Sep-2020 23:24:54 Europe/Zagreb] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'Wrong number of segments' in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php:83
+Stack trace:
+#0 /home/bronjarm/public_html/users/verifyUser.php(18): Firebase\JWT\JWT::decode('', '997puslicatorta...', Array)
+#1 {main}
+  thrown in /home/bronjarm/public_html/vendor/firebase/php-jwt/src/JWT.php on line 83
